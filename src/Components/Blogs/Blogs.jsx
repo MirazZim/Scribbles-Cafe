@@ -3,7 +3,7 @@ import { useState } from "react";
 import Blog from "../Blog/Blog";
 
 
-const Blogs = () => {
+const Blogs = ({handleAddtoBookmark}) => {
     
 //For Loading Data
     
@@ -25,9 +25,9 @@ useEffect( () => {
                 blogs.map(blog =>  
                 <Blog 
                 key={blog.id} 
-                blog={blog}>
-                    
-                </Blog>)
+                blog={blog}
+                handleAddtoBookmark = {handleAddtoBookmark}
+                ></Blog>)
             }
         </div>
     );
