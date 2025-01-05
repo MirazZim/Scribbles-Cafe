@@ -1,0 +1,52 @@
+[
+    {
+        "id": 101,
+        "cover": "https://i.ibb.co.com/zGTW9H1/the-chaffins-Vd-s71-WVc-A-unsplash.jpg",
+        "title": "The Future of Artificial Intelligence",
+        "author": "Emma Watson",
+        "author_img": "https://i.ibb.co.com/WcLdb5R/beyzanur-k-c0v4-Ouk-Ai-Js-unsplash.jpg",
+        "posted_date": "2025-01-01",
+        "reading_time": 5 ,
+        "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+        "id": 102,
+        "cover": "https://i.ibb.co.com/jwPFbB0/steve-johnson-WAw-D6-EIgv0-M-unsplash.jpg",
+        "title": "10 Tips for Boosting Productivity in 2025",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/fVgHJvV/ian-edokov-vb-UHMRm-LEA-unsplash.jpg",
+        "posted_date": "2025-01-03",
+        "reading_time": 7,
+        "hashtags": ["#Productivity", "#WorkLife", "#Success"]
+    },
+    {
+        "id": 103,
+        "cover": "https://i.ibb.co.com/jhWQsNm/karsten-winegeart-lq-Iprx-Geric-unsplash.jpg",
+        "title": "Exploring the Secrets of the Ocean Depths",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co.com/vBH2MKS/neelakshi-singh-g-Akx-La-PAFIo-unsplash.jpg",
+        "posted_date": "2025-01-02",
+        "reading_time": 6 ,
+        "hashtags": ["#Ocean", "#Science", "#Environment"]
+    },
+    {
+        "id": 104,
+        "cover": "https://i.ibb.co.com/hRBZDrc/jigar-panchal-Qwee-HI91i-VY-unsplash.jpg",
+        "title": "How to Design a Minimalist Workspace",
+        "author": "Alex Johnson",
+        "author_img": "https://i.ibb.co.com/ZXhwBbM/navid-sohrabi-Md2-Lvwj-Cpyo-unsplash.jpg",
+        "posted_date": "2025-01-04",
+        "reading_time": 4,
+        "hashtags": ["#Design", "#Minimalism", "#Workspace"]
+    },
+    {
+        "id": 105,
+        "cover": "https://i.ibb.co.com/KG6gtrx/a-rahmat-mn-Os-GLA-g-qw-unsplash.jpg",
+        "title": "Mastering the Art of Cooking at Home",
+        "author": "Rachel Green",
+        "author_img": "https://i.ibb.co.com/Xt8P26V/mehrpouya-h-NU1-MUl-Px-U-unsplash.jpg",
+        "posted_date": "2025-01-05",
+        "reading_time": 8,
+        "hashtags": ["#Cooking", "#Lifestyle", "#Foodies"]
+    }
+]
